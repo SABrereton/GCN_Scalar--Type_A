@@ -51,4 +51,4 @@ The implementations that have currently been released are as follows:
 
 - Imp00001
 
-    ![Alt text](/images/.jpg "Optional title")
+    ![version 1 of implementation Imp00001](/images/version 1 of implementation Imp00001.png "version 1 of implementation Imp00001")
