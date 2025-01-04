@@ -28,7 +28,7 @@ and thus GCN Scalar - Type A is also licenced under GNU General Public
 License version 2.0 (GPLv2)
 
 
-<h3>Implementations</h3>
+<h3>Implementations and Downloads</h3>
 
 Implementations are forks of GCN Scalar - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
@@ -36,7 +36,7 @@ same general program using different developement methods.
 
 The implementations that have currently been released are as follows:
 
-- Imp00001
+- Imp00001 - [ Target platform(s): Microsoft Windows on 32bit x86 compatible systems ]
     
     The purpose of this implementation is to predominantly use the C
     and/or C++ programming languages along with the Simple DirectMedia
