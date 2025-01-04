@@ -1,9 +1,9 @@
-\
-\                        GCN Scalar - Type A
-\                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-\
-\                         Brief information
-\                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+                         GCN Scalar - Type A
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+                          Brief information
+                          ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 
 ++ About this document / Introduction ++
