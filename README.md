@@ -44,7 +44,7 @@ The implementations that have currently been released are as follows:
     that will run on systems that use versions of the Microsoft Windows
     operating system that run on 32bit x86 compatible system architecture.
     
-    [ Target platform(s): Microsoft Windows on 32bit x86 compatible systems ]
+    - [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)
 
 
 <h3>Images</h3>
