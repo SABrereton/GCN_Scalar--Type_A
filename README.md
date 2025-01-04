@@ -12,6 +12,7 @@ The purpose of this document is to provide some information about
 GCN Scalar - Type A.
 
 
+
 ++ About GCN Scalar - Type A ++
 
 GCN Scalar - Type A is a puzzle game where an image file is divided up
