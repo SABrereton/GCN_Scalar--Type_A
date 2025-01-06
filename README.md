@@ -58,12 +58,12 @@ The implementations that have currently been released are as follows:
         Image files can be added to or removed from the "images" folder if you
         wish to change the images that you play with. The image file formats
         .bmp, .jpeg and .png are supported aswell as others that are supported
-        by the SDL_image library.\
+        by the SDL_image library.
 
-        Some additional images can be downloaded below
+        I have made collections of additional images available at the links below
 
-        [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
-        [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
+        [Additional images 01]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_01/Additional_Images_01.zip )\
+        [Additional images 02]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_02/Additional_Images_02.zip )
       
 
 
