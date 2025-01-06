@@ -44,9 +44,9 @@ The implementations that have currently been released are as follows:
     that will run on systems that use versions of the Microsoft Windows
     operating system that run on 32bit x86 compatible system architecture.
 
-    To run the program you will need to obtain copies of the required .dll library files.\
+    To run the program you will need to obtain copies of the required .dll library files.
     I have made a collection of various SDL 1.2.X and SDL 1.2.X extention libraries which should include the .dll library files required by this implemenatation.
-    The collection can by downloaded from it's own repository [Here]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)
+    The collection can by downloaded from it's own repository [Here]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)
     
     - Downloads
 
