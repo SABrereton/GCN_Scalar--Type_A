@@ -45,7 +45,7 @@ The implementations that have currently been released are as follows:
     operating system that run on 32bit x86 compatible system architecture.
 
     To run the program you will need to obtain copies of the required .dll library files.
-    I have made a collection of various SDL 1.2.X and SDL 1.2.X extention libraries which should include the .dll library files required by this implemenatation.
+    I have made a collection of various SDL 1.2.X and SDL 1.2.X extention .dll library file which should include those required by this implemenatation.
     The collection can by downloaded from it's own repository [Here]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)
     
     - Downloads
