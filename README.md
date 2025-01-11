@@ -32,7 +32,7 @@ License version 2.0 (GPLv2).
 
 Implementations are forks of GCN Scalar - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
-same general program using different developement methods.
+same general program using different development methods.
 
 The implementations that have currently been released are as follows:
 
