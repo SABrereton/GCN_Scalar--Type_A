@@ -25,7 +25,7 @@ SourceForge (https://sourceforge.net/ at the time of writing).
 
 Scalar is licenced under the GNU General Public License version 2.0 (GPLv2)
 and thus GCN Scalar - Type A is also licenced under GNU General Public
-License version 2.0 (GPLv2)
+License version 2.0 (GPLv2).
 
 
 <h3>Implementations and Downloads</h3>
@@ -46,7 +46,7 @@ The implementations that have currently been released are as follows:
 
     To run the program you will need to obtain copies of the required .dll library files.
     I have made a collection of various SDL 1.2.X and SDL 1.2.X extention .dll library files which should include those required by this implemenatation.
-    The collection can by downloaded from it's own repository [Here]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)
+    The collection can by downloaded from it's own repository [Here.]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86)
     
     - Downloads
 
@@ -60,7 +60,7 @@ The implementations that have currently been released are as follows:
         .bmp, .jpeg and .png are supported aswell as others that are supported
         by the SDL_image library.
 
-        I have made collections of additional images available at the links below
+        I have made collections of additional images available at the links below.
 
         [Additional images 01]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_01/Additional_Images_01.zip )\
         [Additional images 02]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_02/Additional_Images_02.zip )
