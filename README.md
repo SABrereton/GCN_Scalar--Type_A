@@ -1,6 +1,6 @@
 
-# align="center">GCN Scalar - Type A
-## align="center">Brief information
+# GCN Scalar - Type A
+## Brief information
 
 
 
