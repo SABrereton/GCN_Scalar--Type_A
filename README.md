@@ -1,16 +1,16 @@
 
-<h1 align="center">GCN Scalar - Type A</h1>
-<h2 align="center">Brief information</h2>
+# align="center">GCN Scalar - Type A
+## align="center">Brief information
 
 
 
-<h3>About this document / Introduction</h3>
+### About this document / Introduction
 
 The purpose of this document is to provide some information about
 GCN Scalar - Type A.
 
 
-<h3>About GCN Scalar - Type A</h3>
+### About GCN Scalar - Type A
 
 GCN Scalar - Type A is a puzzle game where an image file is divided up
 into pieces which are then shuffled and the player has to reassemble
@@ -28,7 +28,7 @@ and thus GCN Scalar - Type A is also licenced under GNU General Public
 License version 2.0 (GPLv2).
 
 
-<h3>Implementations and Downloads</h3>
+### Implementations and Downloads
 
 Implementations are forks of GCN Scalar - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
@@ -67,7 +67,7 @@ The implementations that have currently been released are as follows:
       
 
 
-<h3>Images</h3>
+### Images
 
 - Imp00001
 
