@@ -65,7 +65,7 @@ The implementations that have currently been released are as follows:
       
 
 
-### Images
+### Screenshots
 
 - Imp00001
 
