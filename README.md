@@ -21,10 +21,6 @@ Version 1.02 of "Scalar" was obtained from the program's project
 repository hosted at the web-based project hosting service provider
 SourceForge (https://sourceforge.net/ at the time of writing).
 
-Scalar is licenced under the GNU General Public License version 2.0 (GPLv2)
-and thus GCN Scalar - Type A is also licenced under GNU General Public
-License version 2.0 (GPLv2).
-
 
 ### Implementations and Downloads
 
@@ -61,8 +57,7 @@ The implementations that have currently been released are as follows:
         I have made collections of additional images available at the links below.
 
         [Additional images 01]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_01/Additional_Images_01.zip )\
-        [Additional images 02]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_02/Additional_Images_02.zip )
-      
+        [Additional images 02]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_02/Additional_Images_02.zip )   
 
 
 ### Screenshots
@@ -70,3 +65,10 @@ The implementations that have currently been released are as follows:
 - Imp00001
 
     [version 1 of implementation Imp00001](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
+
+
+### Legal / Licencing Information
+
+Scalar is licenced under the GNU General Public License version 2.0 (GPLv2)
+and thus GCN Scalar - Type A is also licenced under GNU General Public
+License version 2.0 (GPLv2).
