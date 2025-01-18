@@ -48,7 +48,11 @@ The implementations that have currently been released are as follows:
         [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
         [Version 1 - The Source Code]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
-    - Additional images
+    - Images
+
+        [Version 1 - Running on Microsoft Windows 10 Home](/Images/imp00001-v1--capture01.png "Version 1 of implementation Imp00001")
+
+    - Additional content
 
         Image files can be added to or removed from the "images" folder if you
         wish to change the images that you play with. The image file formats
@@ -59,13 +63,6 @@ The implementations that have currently been released are as follows:
 
         [Additional images 01]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_01/Additional_Images_01.zip )\
         [Additional images 02]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Additional_images_02/Additional_Images_02.zip )   
-
-
-### Screenshots
-
-- Imp00001
-
-    [version 1 of implementation Imp00001](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
 
 
 ### Legal / Licencing Information
