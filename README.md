@@ -22,7 +22,7 @@ repository hosted at the web-based project hosting service provider
 SourceForge (https://sourceforge.net/ at the time of writing).
 
 
-### Implementations and Downloads
+### Implementations
 
 Implementations are forks of GCN Scalar - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
