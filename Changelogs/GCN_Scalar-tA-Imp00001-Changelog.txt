@@ -1,0 +1,56 @@
+
+                         GCN Scalar - Type A
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        Implemention: Imp00001           
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  
+                              Changelog
+                              ¯¯¯¯¯¯¯¯¯
+
+
+=== Version 1 - [27-11-2024] ===
+
+Initial version.
+
+Consists of fork from version 1.02 of "Scalar" by Milan Babuskov with
+the following changes:
+
+
+* Added section to beginning of each source code file which includes
+  information about what program they are a component of and the
+  GNU General Public License (GPL) License.
+
+* Changed the music used in the game from the copyrighted music used
+  in version 1.02 of "Scalar" to a piece of music which is licensed
+  under an open source friendly license.
+
+* Due to not knowing their source and legal status, all of the image
+  files used in version 1.02 of "Scalar" for the puzzle component of
+  the game program have been changed to images who's source can be
+  attributed.
+
+* Added a fullscreen or windowed mode option at the beginning of
+  running the program.
+
+* Added basic keyboard controls. These just mimic/emulate the existing
+  mouse controls.
+
+* Added the ability to switch music on/off.
+
+* Added credit screens.
+
+* Added a new opening screen which includes information about the
+  program and information informing the user of the controls which
+  are used to interact with the program.
+
+* Changed the window caption.
+
+* Added the ability to disable scoring and play casually with no limit
+  on number of divided and shuffled images to solve (Casual mode).
+
+* Changed "HELP" option to "INSTRUCTIONS".
+
+* Rectified situation where after completing a level players could
+  still move pieces around and repeatedly complete the same level by
+  swapping pieces back and forth gaining extra points before moving
+  on the next level.
