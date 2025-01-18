@@ -42,8 +42,9 @@ The implementations that have currently been released are as follows:
     I have made a collection of various SDL 1.2.X and SDL 1.2.X extention .dll library files which should include those required by this implemenatation.
     The collection can by downloaded from it's own repository [Here]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86).
     
-    - Downloads
+    - Downloads & Changelog
 
+        [Changelog]( /Changelogs/GCN_Scalar-tA-Imp00001-Changelog.txt)\
         [Version 1 - The Program]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
         [Version 1 - The Source Code]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_source_code/GCN_Scalar-tA-Imp00001-v0p1--Src.zip)
 
