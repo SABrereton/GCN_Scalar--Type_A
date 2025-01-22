@@ -21,6 +21,13 @@ Version 1.02 of "Scalar" was obtained from the program's project
 repository hosted at the web-based project hosting service provider
 SourceForge (https://sourceforge.net/ at the time of writing).
 
+The "Type A" designation in this case means that this fork shall use
+the same flat two dimensional graphical interface as the original
+"Scalar" program.
+
+The purpose of the "GCN" prefix is to help distinguish it from the
+original program and other possible versions/forks.
+
 
 ### Implementations
 
